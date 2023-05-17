@@ -1,2 +1,2 @@
 # Extracting Project
-I extract and Visualize Stock Data using Python
+I extracted and Visualized Stock Data using Python
